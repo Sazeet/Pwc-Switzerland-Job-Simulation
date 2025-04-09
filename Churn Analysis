@@ -1,0 +1,29 @@
+Churn Analysis
+
+The goal of this task is to design a user-friendly dashboard centered around customer retention for a telecom company, which will deliver actionable insights to support strategic planning and informed decision-making aimed at improving customer loyalty and reducing churn.
+
+Key Insights & Recommendations
+
+Fiber Optic users churn more than DSL users
+→ Enhance the experience and reliability of Fiber Optic services to reduce churn.
+
+Customers with multiple line services are more likely to churn
+→ Evaluate and improve the value or usability of multiple line plans.
+
+Lack of use of streaming TV, online backup, and movies is linked to higher churn
+→ Promote and bundle these services to increase engagement and retention.
+
+Customers who submit technical tickets are at higher risk of churning
+→ Analyze the root causes of technical issues and work on prevention strategies.
+
+Churning customers tend to have higher average bills
+→ Consider offering loyalty rewards or discounts for high-paying customers.
+
+Month-to-Month contracts correlate with higher churn
+→ Incentivize longer-term contracts with better deals or added benefits.
+
+Customers with partners churn more than those without
+→ Explore relationship-based engagement strategies or targeted offers.
+
+Gender does not influence churn rate
+→ No action needed based on gender—focus efforts on other impactful factors.
