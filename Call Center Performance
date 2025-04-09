@@ -1,0 +1,11 @@
+The objective is to create a Power BI dashboard for PhoneNow’s Call Centre Manager that clearly visualizes key performance indicators such as customer satisfaction, call volume, and agent performance. The goal is to support data-driven conversations with the management team.
+
+ Key Insights & Recommendations
+
+Customer Satisfaction Needs Attention: The average rating is 3.40—well below the 4.5 target. This suggests a need to dig deeper into what’s driving customer frustration.
+
+Good Answer Rate, Lower Resolution: While 81.08% of calls are answered, only 72.92% are resolved. Focus should shift toward improving first-call resolution.
+
+Slow Response Time: With an average answer time of 67.5 seconds, quicker responses may help boost overall satisfaction.
+
+Agent Performance Gaps: Call volume is consistent across agents, but satisfaction and response times vary—indicating training opportunities.
